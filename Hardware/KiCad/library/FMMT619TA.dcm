@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FMMT619TA
+K BJT NPN
+F https://www.diodes.com/assets/Datasheets/FMMT619.pdf
+$ENDCMP
+#
+#End Doc Library

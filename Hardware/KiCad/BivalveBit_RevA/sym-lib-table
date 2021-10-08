@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name FMMT619TA)(type Legacy)(uri D:/Dropbox/Hardware_projects/BivalveBit/Hardware/KiCad/library/FMMT619TA.lib)(options "")(descr "BJT NPT 50V 2A SOT-23-3"))
+  (lib (name BivalveBit_RevA-rescue)(type Legacy)(uri ${KIPRJMOD}/BivalveBit_RevA-rescue.lib)(options "")(descr ""))
+)

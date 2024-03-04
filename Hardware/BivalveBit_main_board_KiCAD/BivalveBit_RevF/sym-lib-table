@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BivalveBit-rescue")(type "Legacy")(uri "${KIPRJMOD}/BivalveBit_RevF-rescue.lib")(options "")(descr ""))
+)
